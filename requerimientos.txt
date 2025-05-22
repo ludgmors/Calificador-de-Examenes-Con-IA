@@ -1,0 +1,9 @@
+easyocr
+opencv-python
+pillow
+ollama
+python-dotenv
+pymupdf
+streamlit
+python-docx
+fpdf
