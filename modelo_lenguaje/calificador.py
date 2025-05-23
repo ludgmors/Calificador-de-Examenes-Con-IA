@@ -2,6 +2,7 @@ import ollama
 
 def calificar_respuesta(pregunta, respuesta_estudiante, respuesta_esperada, nivel_exigencia=5):
     prompt = f"""
+    
 Eres un profesor universitario corrigiendo exámenes de forma automática. Tu tarea es calificar respuestas de estudiantes usando únicamente una escala binaria: 0 o 10.
 
 - Si la respuesta del estudiante coincide claramente con la respuesta ideal (aunque con palabras diferentes pero mismo significado), asigna un **10**.
