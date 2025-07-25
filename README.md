@@ -1,6 +1,6 @@
 # 🧠 Calificador Inteligente de Exámenes
 
-Sistema de calificación automática que utiliza OCR y modelos de lenguaje para evaluar respuestas escritas de estudiantes. Ideal para docentes que desean corregir exámenes rápida y objetivamente con retroalimentación clara.
+Sistema de calificación automática que utiliza OCR y modelos de lenguaje para evaluar respuestas escritas de estudiantes. Ideal para docentes que desean corregir exámenes, rápido y objetivamente con retroalimentación clara.
 
 ## 🚀 Características
 
